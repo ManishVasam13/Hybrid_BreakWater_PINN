@@ -1,0 +1,16 @@
+{
+  "gravity": 9.81,
+  "depth_m": 5.0,
+  "wave_amplitude_m": 0.05,
+  "period_s": 3.0,
+  "domain_x_m": [
+    -10.0,
+    10.0
+  ],
+  "collocation_points": 12000,
+  "epochs": 5000,
+  "learning_rate": 0.002,
+  "hidden": 64,
+  "depth": 6,
+  "seed": 7
+}
